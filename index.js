@@ -22,7 +22,7 @@ app.use('', carRoutes);
 
 app.get('/', (req, res) => {
     res.json({
-        message: "Bienvenido a mi api"
+        message: "Bienvenido a mi api dev"
     })
 })
 
